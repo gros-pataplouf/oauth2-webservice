@@ -1,0 +1,1 @@
+A very primitive webservice for retrieving data from a table, protected by OAuth2.
